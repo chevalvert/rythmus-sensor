@@ -1,0 +1,10 @@
+{
+  "name": "rythmus-sensor",
+  "version": "0.1.0",
+  "description": "rythmus heart sensor firmware",
+  "author": "Arnaud Juracek",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {}
+}

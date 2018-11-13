@@ -7,3 +7,5 @@
 
 - [ ] wiring diagram
 - [ ] hardware list
+
+![wiring-promicro-rythmus.png](images/wiring-promicro-rythmus.png)

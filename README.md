@@ -12,7 +12,7 @@
 - [`rythmus-documentation`](https://github.com/chevalvert/rythmus-documentation) : Rythmus hardware, hookup & misc guides
 
 ## Wiring diagram
-![wiring-promicro-rythmus.png](images/wiring-promicro-rythmus.png)
+![wiring-promicro-rythmus.png](schematics/rythmus-sensor.png)
 
 ## License
 [MIT.](https://tldrlegal.com/license/mit-license)
